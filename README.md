@@ -6,3 +6,7 @@ not recomended for daily use because not public release version of OpenCore and 
 
 -   i will update for important kernel extensions every macOS beta update
 -   you can use latest commit of for each required dependencies and compiled it by yourself
+
+## Helpers
+
+you can use script on helpers folder to get latest commit of OpenCore, Kext & Friends
